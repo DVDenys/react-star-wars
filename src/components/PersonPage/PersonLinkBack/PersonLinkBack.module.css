@@ -1,0 +1,18 @@
+.link {
+    display: inline-flex;
+    align-items: center;
+    font-weight: var(--font-bold);
+    color: var(--color-yellow);
+    text-decoration: none;
+
+    margin-top: 15px;
+}
+.link__img {
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+    object-position: center center;
+
+    margin-right: var(--spacing-small);
+
+}
