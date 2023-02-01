@@ -19,7 +19,7 @@
 img {
     display: block;
 }
-.UiButton_button__-jLmy {
+.UiButton_button__UklC6 {
     font-size: var(--font-size-small);
     font-family: var(--font-family-main);
     font-weight: var(--font-bold);
@@ -32,43 +32,43 @@ img {
     padding: 10px;
     border-radius: 3px;
 }
-.UiButton_button__-jLmy:disabled,
-.UiButton_button__-jLmy:disabled:hover {
+.UiButton_button__UklC6:disabled,
+.UiButton_button__UklC6:disabled:hover {
     color: var(--color-gray);
     border-color: var(--color-gray);
     cursor: auto;
     background-color: transparent;
 }
 
-.UiButton_dark__l1bjR {
+.UiButton_dark__fVlyr {
     border: 1px solid var(--color-white);
     color: var(--color-white);
 }
-.UiButton_dark__l1bjR:hover {
+.UiButton_dark__fVlyr:hover {
     color: var(--color-black);
     background-color: var(--color-white);
 }
-.UiButton_light__mZeut {
+.UiButton_light__P1pqG {
     border: 1px solid var(--color-black);
     color: var(--color-black);
 }
-.UiButton_light__mZeut:hover {
+.UiButton_light__P1pqG:hover {
     color: var(--color-white);
     background-color: var(--color-black);
 }
-.UiInput_wrapper__input__7u57A {
+.UiInput_wrapper__input__7bSVu {
     --border-radius: 3px;
     --border: 3px;
     --clear-width: 35px;
 }
 
-.UiInput_wrapper__input__7u57A {
+.UiInput_wrapper__input__7bSVu {
     position: relative;
     top: 0;
     left: 0;
     display: inline-flex;
 }
-.UiInput_input__JwIFl {
+.UiInput_input__3k3qD {
     min-width: 300px;
     border: var(--border) solid;
     border-color: var(--color-lightgray);
@@ -80,10 +80,10 @@ img {
     padding: 10px 15px;
     padding-right: calc(var(--clear-width) + 15px);
 }
-.UiInput_input__JwIFl:focus {
+.UiInput_input__3k3qD:focus {
     border-color: var(--corol-blue);
 }
-.UiInput_clear__OPWZe {
+.UiInput_clear__NSHIj {
     position: absolute;
     top: var(--border);
     right: var(--border);;
@@ -97,20 +97,20 @@ img {
 
     padding: 10px;
 }
-.UiInput_clear__disabled__jig6a {
+.UiInput_clear__disabled__NiyX6 {
     opacity: .2;
 }
-.UiLoading_loader__PSw\+H {
+.UiLoading_loader__VDSzV {
     width: 120px;
     height: 120px;
 }
 
-.UiLoading_shadow__mU-C7 {
+.UiLoading_shadow__NuEqM {
     -webkit-filter: drop-shadow(0 0 2px #000);
             filter: drop-shadow(0 0 2px #000);
 }
-.UiVideo_video__wo6u3 {
+.UiVideo_video__7yybA {
     
 }
 
-/*# sourceMappingURL=main.01d2aba8.css.map*/
+/*# sourceMappingURL=main.6fdd3429.css.map*/
