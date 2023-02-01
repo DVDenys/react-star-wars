@@ -5,7 +5,7 @@
   padding: var(--spacing-large) 0;
 }
 
-@media screen and (max-width: 1400ox) {
+@media screen and (max-width: 1400px) {
   .wrapper {
     padding: var(--spacing-large) var(--spacing-large);
   }
